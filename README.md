@@ -1,4 +1,4 @@
 # hello-world
 My first repository.
-This is for practice purposes only
+This is for practice purposes only.
 
