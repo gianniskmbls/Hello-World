@@ -16,4 +16,9 @@ An Identity Matrix Generator with Error Handling. This Python program generates 
 An identity matrix is a square matrix where all diagonal elements are '1's, and all other elements are '0's. The 
 user specifies the number of '1's in the matrix.
 
+## root.py
+A Digital Root Calculator with Iterated Summing. This program calculates the digital root of a given integer using 
+iterative digit summing. The digital root is the repeated sum of the digits of a number until a single-digit result
+is obtained.
+
 
