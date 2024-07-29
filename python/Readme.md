@@ -1,6 +1,6 @@
 # Introduction
-A set of Python programs and applications. As an entry level developer, I have created this set of Python programs. The 
-folder contains six Python scripts and a .txt file. The scripts are the following:
+This folder contains a collection of six Python scripts and a supporting .txt file. Each script serves a unique purpose, 
+showcasing various functionalities and applications of Python programming. Below is a brief description of each script:
 
 ## interval.py
 This Python program calculates the maximum and minimum intervals from a list of spaces provided by the user.
