@@ -1,2 +1,2 @@
 # Introduction
-This is my first GitHub repository. It will act as my personal portfolio.
+I am a computer science graduate with a particular interest in Python and SQL. This is my first GitHub repository.
