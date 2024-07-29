@@ -21,4 +21,8 @@ A Digital Root Calculator with Iterated Summing. This program calculates the dig
 iterative digit summing. The digital root is the repeated sum of the digits of a number until a single-digit result
 is obtained.
 
+## statistics.py
+A Letter Appearance Statistics Program. This program reads the contents of a text file, calculates the appearance 
+statistics for each letter, and displays the results in ascending order by count.
+
 
