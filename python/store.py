@@ -121,7 +121,7 @@ def main():
     for album in recordList:
         file.write(",".join(map(str,album)) + "\n")
     file.close() #Closing file after writing
-
+    
 #Calling the 'main()' function
 if __name__=="__main__":
     main()
