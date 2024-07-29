@@ -25,4 +25,18 @@ is obtained.
 A Letter Appearance Statistics Program. This Python script reads the contents of a text file, calculates the appearance 
 statistics for each letter, and displays the results in ascending order by count.
 
+## store.py
+This is a record store application. Program Name: Best Metal Albums Store.
+Description: This Python program manages a list of the best metal albums. It allows users to add, search, display, and 
+delete albums from a list stored in the 'store.txt' file. The program provides a simple menu-based interface for interacting 
+with the album records.
+
+Usage:
+    - Run the program from the command line with: python store.py
+    - Follow the on-screen menu to select options for adding, searching, displaying, or deleting albums.
+    - The program reads from and writes to the 'store.txt' file to persist the album data.
+
+Functions:
+    - delete_album(recordList, keyword): Deletes an album from the list based on a keyword and updates 'store.txt'.
+
 
