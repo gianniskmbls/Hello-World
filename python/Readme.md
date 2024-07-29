@@ -12,7 +12,7 @@ This is a Random Matrix Generator with Maximum Element Finder. A Python program 
 on user input and then calculates and displays the maximum element in the matrix.
 
 ## matrixOnes.py
-An Identity Matrix Generator with Error Handling. This Python program generates and displays an identity matrix.
+An Identity Matrix Generator with Error Handling. This Python script generates and displays an identity matrix.
 An identity matrix is a square matrix where all diagonal elements are '1's, and all other elements are '0's. The 
 user specifies the number of '1's in the matrix.
 
@@ -22,7 +22,7 @@ iterative digit summing. The digital root is the repeated sum of the digits of a
 is obtained.
 
 ## statistics.py
-A Letter Appearance Statistics Program. This program reads the contents of a text file, calculates the appearance 
+A Letter Appearance Statistics Program. This Python script reads the contents of a text file, calculates the appearance 
 statistics for each letter, and displays the results in ascending order by count.
 
 
