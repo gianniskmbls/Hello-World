@@ -11,4 +11,9 @@ and shortest lengths based on these intervals.
 This is a Random Matrix Generator with Maximum Element Finder. A Python program which generates a random matrix based 
 on user input and then calculates and displays the maximum element in the matrix.
 
+## matrixOnes.py
+An Identity Matrix Generator with Error Handling. This Python program generates and displays an identity matrix.
+An identity matrix is a square matrix where all diagonal elements are '1's, and all other elements are '0's. The 
+user specifies the number of '1's in the matrix.
+
 
