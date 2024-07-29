@@ -1,3 +1,17 @@
+"""Program Name: Best Metal Albums Store
+Description: This Python program manages a list of the best metal albums. It allows users to add, search, display, 
+and delete albums from a list stored in the 'store.txt' file. The program provides a simple menu-based interface for 
+interacting with the album records.
+
+Usage:
+    - Run the program from the command line with: python best_metal_albums_store.py
+    - Follow the on-screen menu to select options for adding, searching, displaying, or deleting albums.
+    - The program reads from and writes to 'store.txt' to persist the album data.
+
+Functions:
+    - delete_album(recordList, keyword): Deletes an album from the list based on a keyword and updates 'store.txt'."""
+
+
 def main():
 
     #Function to delete an album from 'recordList'
