@@ -39,4 +39,4 @@ Usage:
 Functions:
     - delete_album(recordList, keyword): Deletes an album from the list based on a keyword and updates 'store.txt'.
 
-
+Additionally, the 'store.tx't file is used by some of the scripts to read from and write data to, ensuring data persistence across sessions.
