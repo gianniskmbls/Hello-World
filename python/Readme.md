@@ -7,4 +7,8 @@ This Python program calculates the maximum and minimum intervals from a list of 
 A space is defined as a pair of start and end points, and the program finds the space or spaces with the longest
 and shortest lengths based on these intervals.
 
+## matrixMax.py
+This is a Random Matrix Generator with Maximum Element Finder. A Python program which generates a random matrix based 
+on user input and then calculates and displays the maximum element in the matrix.
+
 
