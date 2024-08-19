@@ -22,4 +22,5 @@ This is a simple command-line bank application built in Python using Object-Orie
   -Deposit money into the account.
   -Withdraw money from the account.
   -Exit the application.
+
 This application is an excellent example of how to implement basic banking operations using OOP concepts in Python.
