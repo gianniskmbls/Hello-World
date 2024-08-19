@@ -1,2 +1,2 @@
 # Introduction
-A set of C programs and applications. As an entry level developer, I have created this set of C programs. This set will work as my first attempt to create a portfolio.
+As an entry-level developer, I have put together a collection of C programs and applications. This set represents my initial efforts in building a portfolio, showcasing my foundational skills in C programming and my commitment to continuous learning and improvement.
