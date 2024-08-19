@@ -24,3 +24,40 @@ This is a simple command-line bank application built in Python using Object-Orie
   -Exit the application.
 
 This application is an excellent example of how to implement basic banking operations using OOP concepts in Python.
+
+
+## cart.py - Shopping Cart Application in Python
+
+This is a command-line shopping cart application built in Python using Object-Oriented Programming (OOP) concepts. The application allows users to add and remove items from a cart, view the contents of the cart, and calculate the total cost of the items in the cart.
+
+### Features
+- **Online Shop**: The `Shop` class represents the base class for the online shop, providing a foundation for the `Item` and `Cart` classes.
+- **Item Management**: Create and manage items with attributes such as name, type, quantity, and cost.
+- **Cart Operations**: Add items to the cart, remove specific quantities, view all items, and calculate the total cost of items in the cart.
+
+### Classes and Methods
+- **`Shop` Class**: Represents the online shop.
+  - `display_shop_name()`: Displays the name of the shop.
+
+- **`Item` Class**: Inherits from `Shop` and represents an item available in the shop.
+  - `__init__(item_name, item_type, item_quantity, item_cost)`: Initializes an item with a name, type, quantity, and cost.
+  - `display()`: Displays the details of the item.
+
+- **`Cart` Class**: Inherits from `Shop` and represents a shopping cart.
+  - `add_item(item)`: Adds an item to the cart or updates the quantity if the item already exists.
+  - `remove_item(item_name, quantity)`: Removes a specified quantity of an item from the cart.
+  - `display_cart()`: Displays the contents of the cart.
+  - `total_cost()`: Calculates and displays the total cost of the items in the cart.
+
+### Usage
+1. **Start the application**: Run the script to begin interacting with the shopping cart.
+2. **Choose an option from the menu**:
+   - Add an item to the cart by specifying its name, type, quantity, and cost.
+   - Remove a specified quantity of an item from the cart.
+   - Display the current contents of the cart.
+   - Calculate and display the total cost of the items in the cart.
+   - Exit the application.
+
+This application is a practical example of implementing a shopping cart system using OOP concepts in Python. It demonstrates how to manage items in a cart and perform common operations like adding, removing, and calculating costs.
+
+
