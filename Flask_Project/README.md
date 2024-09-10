@@ -20,7 +20,10 @@ In order for the application to run, the user must insert the â€˜python app.pyâ€
 
 ![Fourth Image](../Images/app.py.png)
 
-Note: This application was created for development purposes and not for production.
+Note: This application was created for development purposes and not for production:
+
+![Fifth Image](../Images/app.py_2.png)
+
 
 
 
