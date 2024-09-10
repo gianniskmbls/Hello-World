@@ -6,6 +6,10 @@ The first step to the implementation of this project was the creation of the nec
 
 ![First Image](../Images/database_creation.png)
 
+The MySQL database named ‘bankdb’ includes a table named ‘banks’ for bank records, with columns for bank id (primary key), unique bank name and bank location.
+
+
+
 
 
 
