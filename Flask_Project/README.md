@@ -12,6 +12,9 @@ The MySQL database named ‘bankdb’ includes a table named ‘banks’ for ban
 
 The Flask application was created by using the Visual Studio Code. The final project layout is shown below:
 
+![Third Image](../Images/layout.png)
+
+
 
 
 
