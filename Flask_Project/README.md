@@ -18,6 +18,8 @@ After setting the virtual environment ‘.venv’, I proceeded with the creation
 
 In order for the application to run, the user must insert the ‘python app.py’ command into the terminal:
 
+![Fourth Image](../Images/app.py.png)
+
 
 
 
