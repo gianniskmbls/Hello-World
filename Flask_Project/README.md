@@ -30,7 +30,15 @@ Once the application starts running, the user can hover over the URL address, wh
 
 This is the application interface. The first thing the user sees is the ‘Add Bank’ section. There are two fields to fill, the ‘Bank Name’ and ‘Bank Location’. Once the user fills both fields and presses the ‘Add Bank’ button, the bank record will be added into the ‘banks’ table of the ‘bankdb’ database and will be also displayed at the bottom of the web page, within the ‘All Banks’ section.
 
-Note: Since the database table ‘banks’ accepts ### only unique names, the table cannot have duplicate bank names. If the user tries to enter a bank name, while a record with the same name already exists, a duplicate name error will be displayed on the terminal:
+Note: Since the database table ‘banks’ accepts only unique names, the table cannot have duplicate bank names. If the user tries to enter a bank name, while a record with the same name already exists, a duplicate name error will be displayed on the terminal:
+
+![Seventh Image](../Images/duplicate_name_error.png)
+![Eighth Image](../Images/duplicate_name_error_2.png)
+
+
+
+
+
 
 
 
