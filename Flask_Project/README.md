@@ -39,6 +39,11 @@ The field filling for both attributes is obligatory. If the user does not fill o
 
 ![Ninth Image](../Images/Add_bank_section.png)
 
+Each bank record inserted into the database table and displayed on the web page has two more buttons next to it. These are the ‘Update’ and ‘Delete’ buttons. When pressing the ‘Delete’ button and refreshing the page, the selected bank record will be deleted from the database and will stop being displayed on the webpage. On the other hand, when pressing the ‘Update’ button, the ‘Update Bank Details’ window pops up, where the user can edit a selected bank record. This means that the user can change the bank name, bank location or even both attributes. Once changing the selected attribute(s), and by clicking the ‘Save’ button, the selected record will be changed. There is also a ‘Cancel’ button in case the user wishes not to change any attribute:
+
+![Tenth Image](../Images/Update_bank_details.png)
+
+
 
 
 
