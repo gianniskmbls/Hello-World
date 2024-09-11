@@ -24,7 +24,7 @@ Note: This application was created for development purposes and not for producti
 
 ![Fifth Image](../Images/app.py_2.png)
 
-Once the application starts running, the user can hover over the URL address, which acts as a hyperlink to the web page ('http://127.0.0.1:5000'). By clicking on the ‘Follow link’ command, the full page of the CRUD application is displayed on the screen, as seen in the picture below:
+Once the application starts running, the user can hover over the URL address, which acts as a hyperlink to the web page (`http://127.0.0.1:5000`). By clicking on the ‘Follow link’ command, the full page of the CRUD application is displayed on the screen, as seen in the picture below:
 
 
 
