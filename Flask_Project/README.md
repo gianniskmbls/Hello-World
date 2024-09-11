@@ -35,6 +35,13 @@ Note: Since the database table ‘banks’ accepts only unique names, the table 
 ![Seventh Image](../Images/duplicate_name_error.png)
 ![Eighth Image](../Images/duplicate_name_error_2.png)
 
+The field filling for both attributes is obligatory. If the user does not fill one of the fields or both of them, a warning message will be displayed, as seen below:
+
+![Ninth Image](../Images/Add_bank_section.png)
+
+
+
+
 
 
 
